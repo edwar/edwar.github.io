@@ -356,6 +356,13 @@ img
 }
 /* end contact */
 
+/* start map*/
+#map {
+        width: 500px;
+        height: 400px;
+      }
+/* end map*/
+
 /* start footer */
 footer
     {
